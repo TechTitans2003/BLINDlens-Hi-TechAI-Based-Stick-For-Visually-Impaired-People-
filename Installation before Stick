@@ -1,0 +1,10 @@
+#Using pi-4 legacy /using pendrive 
+sudo apt update&&
+pip install tensorflow
+pip install opencv-python
+pip install mediapipe
+pip install gtts
+pip install numpy
+sudo apt install mpg321
+pip install utils 
+pip install pyttsx3
